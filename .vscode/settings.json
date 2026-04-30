@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "database": "treino.db",
+            "name": "Anne"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
