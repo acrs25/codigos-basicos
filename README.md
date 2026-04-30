@@ -13,7 +13,7 @@ Cada arquivo resolve um exercício específico, com foco em clareza e aprendizad
 - `numero-primo.py` → Verifica se um número é primo.
 - `palindromo-lista.py` → Verifica palíndromos em uma lista de palavras.
 - `palindromo-palavra.py` → Verifica se uma palavra é palíndromo.
-- `pares-impares.py` → Separa números pares e ímpares de uma lista.
+- `pares-impares.py` → Números pares e ímpares.
 - `remover-duplicados.py` → Remove elementos duplicados de uma lista.
 - `saudacao-personalizada.py` → Exibe uma saudação personalizada.
 - `tabuada.py` → Gera a tabuada de um número.
